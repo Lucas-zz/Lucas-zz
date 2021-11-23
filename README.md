@@ -16,7 +16,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-989DAB?style=flat&logo=Github&logoColor=white)](https://github.com/Lucas-zz)
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>🔍 Most Used Languages</summary>
 
 <img align="left" alt="Lucas' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz" />
 
