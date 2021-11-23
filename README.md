@@ -1,6 +1,6 @@
 ### Hello World! I'm Lucas, but people usually call me Zuleno! 👋
 
-  <img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif?raw=true" width="450" height="320" />
+  <img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif?raw=true" width="350" height="240" />
   
 ## I'm a Son, Student, Developer and Dreamer!!
 
