@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💬 Ask me about games and we'll talk all day long
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I LOVE PETS! But I'm not gonna lie, I'm a dog person 🐶
+- ⚡ Fun fact: I LOVE PETS! And as you can see on my profile pic... I'm a dog person 🐶
 
 ### Let's connect! 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/azzolinilucas/)
