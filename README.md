@@ -1,8 +1,10 @@
+<img align="left" alt="Profile views" src="https://komarev.com/ghpvc/?username=Lucas-zz&color=blue"> 
+
 ## Hello World! I'm Lucas, but people usually call me Zuleno! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
   <img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif?raw=true" width="400" height="240" />
   
-## I'm a Son, Student, Developer and Dreamer!!
+### I'm a Son, Student, Developer and Dreamer!!
 
 - 🔭 I’m currently working on some side projects
 - 🌱 I’m currently learning JavaScript and REACT
@@ -13,6 +15,7 @@
 ## Let's connect! 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/azzolinilucas/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucasazzollinivieira@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/zulenno/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-989DAB?style=flat&logo=Github&logoColor=white)](https://github.com/Lucas-zz)
 
 
