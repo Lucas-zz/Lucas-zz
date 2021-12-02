@@ -5,7 +5,7 @@
 ## I'm a Son, Student, Developer and Dreamer!!
 
 - 🔭 I’m currently working on some side projects
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning JavaScript and REACT
 - 💬 Ask me about games and we'll talk all day long
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I LOVE PETS! And as you can see on my profile pic... I'm a dog person 🐶
