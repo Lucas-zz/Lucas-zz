@@ -2,7 +2,7 @@
 
 ## Hello World! I'm Lucas, but people usually call me Zuleno! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-  <img align="right" justify="center" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif?raw=true" width="380" height="220" />
+  <img align="right" justify="center" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif?raw=true" width="390" height="220" />
   
 ### I'm a Son, Student, Developer and Dreamer!!
 
