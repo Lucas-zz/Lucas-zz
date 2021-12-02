@@ -1,4 +1,4 @@
-### Hello World! I'm Lucas, but people usually call me Zuleno! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+## Hello World! I'm Lucas, but people usually call me Zuleno! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
   <img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif?raw=true" width="400" height="240" />
   
@@ -10,13 +10,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I LOVE PETS! And as you can see on my profile pic... I'm a dog person 🐶
 
-### Let's connect! 
+## Let's connect! 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/azzolinilucas/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucasazzollinivieira@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-989DAB?style=flat&logo=Github&logoColor=white)](https://github.com/Lucas-zz)
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -35,6 +35,6 @@
   <img align="left" alt="Lucas' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz" />
 </details>
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>🔍 GitHub Stats</summary>
   <img align="left" alt="Lucas-zz stats" src="https://github-readme-stats.vercel.app/api?username=Lucas-zz&show_icons=true&hide_border=true" />
 </details>
