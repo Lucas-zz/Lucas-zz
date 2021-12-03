@@ -43,9 +43,9 @@
   <img align="left" alt="Lucas-zz stats" src="https://github-readme-stats.vercel.app/api?username=Lucas-zz&show_icons=true&hide_border=true" />
 </details>
 
-[linkedin]: https://www.linkedin.com/in/azzolinilucas/
-[gmail]: mailto:lucasazzollinivieira@gmail.com
-[instagram]: https://www.instagram.com/zulenno/
-[github]: https://github.com/Lucas-zz
+[linkedin]: https://www.linkedin.com/in/azzolinilucas/ {:target="_blank"}
+[gmail]: mailto:lucasazzollinivieira@gmail.com {:target="_blank"}
+[instagram]: https://www.instagram.com/zulenno/ {:target="_blank"}
+[github]: https://github.com/Lucas-zz {:target="_blank"}
 
 [none]:# 
