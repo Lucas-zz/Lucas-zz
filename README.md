@@ -43,7 +43,7 @@
   <img align="left" alt="Lucas-zz stats" src="https://github-readme-stats.vercel.app/api?username=Lucas-zz&show_icons=true&hide_border=true" />
 </details>
 
-[linkedin]: <a href="https://www.linkedin.com/in/azzolinilucas/"/>
+[linkedin]: <a href="https://www.linkedin.com/in/azzolinilucas/"></a>
 [gmail]: mailto:lucasazzollinivieira@gmail.com
 [instagram]: https://www.instagram.com/zulenno/
 [github]: https://github.com/Lucas-zz
