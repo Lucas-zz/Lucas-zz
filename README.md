@@ -13,10 +13,10 @@
 - ⚡ Fun fact: I LOVE PETS! And as you can see on my profile pic... I'm a dog person 🐶
 
 ## Let's connect! 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin]
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)][gmail]
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)][instagram]
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-989DAB?style=flat&logo=Github&logoColor=white)][github]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin] {:target="_blank"}
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)][gmail] {:target="_blank"}
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)][instagram] {:target="_blank"}
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-989DAB?style=flat&logo=Github&logoColor=white)][github] {:target="_blank"}
 
 
 ## Languages and Tools:
@@ -43,9 +43,9 @@
   <img align="left" alt="Lucas-zz stats" src="https://github-readme-stats.vercel.app/api?username=Lucas-zz&show_icons=true&hide_border=true" />
 </details>
 
-[linkedin]: https://www.linkedin.com/in/azzolinilucas/ {:target="_blank"}
-[gmail]: mailto:lucasazzollinivieira@gmail.com {:target="_blank"}
-[instagram]: https://www.instagram.com/zulenno/ {:target="_blank"}
-[github]: https://github.com/Lucas-zz {:target="_blank"}
+[linkedin]: https://www.linkedin.com/in/azzolinilucas/
+[gmail]: mailto:lucasazzollinivieira@gmail.com
+[instagram]: https://www.instagram.com/zulenno/
+[github]: https://github.com/Lucas-zz
 
 [none]:# 
