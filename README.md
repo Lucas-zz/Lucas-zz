@@ -20,7 +20,7 @@
 <p />
 
 <a align="left" href="https://wakatime.com/@651d40aa-a53a-4c3b-a2cb-8c0099c4ddd2">
-  <img align="left" src="https://wakatime.com/badge/user/651d40aa-a53a-4c3b-a2cb-8c0099c4ddd2.svg" alt="Total time coded since Oct 6 2021" />
+  <img align="left" src="https://wakatime.com/badge/user/651d40aa-a53a-4c3b-a2cb-8c0099c4ddd2.svg" title="Total time coded since Oct 6 2021" />
 </a>
   
 <br />
