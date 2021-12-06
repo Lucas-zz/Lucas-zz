@@ -1,6 +1,6 @@
 ## Hello World! I'm Lucas, but people usually call me Zuleno! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-  <img align="right" justify="center" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif?raw=true" width="390" height="220" />
+  <img align="right" justify="center" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif?raw=true" width="380" height="220" />
   
 ### I'm a Son, Student, Developer and Dreamer!!
 
@@ -15,6 +15,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)][gmail]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)][instagram]
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-989DAB?style=flat&logo=Github&logoColor=white)][github]
+[<img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=Lucas-zz&color=blue" />][github]
 
 <p />
 
@@ -40,18 +41,11 @@
 <br />
 
 ---
+
 <details>
   <summary>🔍 Most Used Languages</summary>
-  <img align="right" alt="Lucas' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz" />
+  <img align="left" alt="Lucas' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz" />
 </details>
-<details>
-  <summary>🔍 GitHub Stats</summary>
-  <img align="right" alt="Lucas-zz stats" src="https://github-readme-stats.vercel.app/api?username=Lucas-zz&show_icons=true&hide_border=true" />
-</details>
-
-<p />
-
-[<img align="left" alt="Profile views" src="https://komarev.com/ghpvc/?username=Lucas-zz&color=blue" />][github]
 
 [linkedin]: https://www.linkedin.com/in/azzolinilucas/
 [gmail]: mailto:lucasazzollinivieira@gmail.com
