@@ -1,13 +1,3 @@
-<img align="left" alt="Profile views" src="https://komarev.com/ghpvc/?username=Lucas-zz&color=blue">
-
-<br>
-
-<a align="left" href="https://wakatime.com/@651d40aa-a53a-4c3b-a2cb-8c0099c4ddd2">
-  <img align="left" src="https://wakatime.com/badge/user/651d40aa-a53a-4c3b-a2cb-8c0099c4ddd2.svg" alt="Total time coded since Oct 6 2021" />
-</a>
-
-<br>
-
 ## Hello World! I'm Lucas, but people usually call me Zuleno! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
   <img align="right" justify="center" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif?raw=true" width="390" height="220" />
@@ -26,6 +16,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)][instagram]
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-989DAB?style=flat&logo=Github&logoColor=white)][github]
 
+<p>
+
+<a align="left" href="https://wakatime.com/@651d40aa-a53a-4c3b-a2cb-8c0099c4ddd2">
+  <img align="left" src="https://wakatime.com/badge/user/651d40aa-a53a-4c3b-a2cb-8c0099c4ddd2.svg" alt="Total time coded since Oct 6 2021" />
+</a>
+  
+<br>
 
 ## Languages and Tools:
 
@@ -51,6 +48,8 @@
   <summary>🔍 GitHub Stats</summary>
   <img align="left" alt="Lucas-zz stats" src="https://github-readme-stats.vercel.app/api?username=Lucas-zz&show_icons=true&hide_border=true" />
 </details>
+
+<img align="left" alt="Profile views" src="https://komarev.com/ghpvc/?username=Lucas-zz&color=blue">
 
 [linkedin]: https://www.linkedin.com/in/azzolinilucas/
 [gmail]: mailto:lucasazzollinivieira@gmail.com
