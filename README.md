@@ -41,6 +41,9 @@
 <br />
 
 ---
+<!-- 
+[<img align="left" justify="center" title="snake-game-eating-daily-commits.gif" src="https://github.com/Lucas-zz/Lucas-zz/blob/main/github-user-contribution.svg" />][none]
+ -->
 
 <details>
   <summary>🔍 Most Used Languages</summary>
