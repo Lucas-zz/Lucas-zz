@@ -45,10 +45,9 @@
 [<img align="left" justify="center" title="snake-game-eating-daily-commits.gif" src="https://github.com/Lucas-zz/Lucas-zz/blob/main/github-user-contribution.svg" />][none]
  -->
 
-<details>
-  <summary>🔍 Most Used Languages</summary>
-  <img align="left" alt="Lucas' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz" />
-</details>
+<img align="left" alt="Lucas' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz" />
+<img align="right" alt="Lucas' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lucas-zz&show_icons=true&hide_border=true" />
+
 
 [linkedin]: https://www.linkedin.com/in/azzolinilucas/
 [gmail]: mailto:lucasazzollinivieira@gmail.com
