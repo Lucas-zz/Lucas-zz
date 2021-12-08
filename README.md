@@ -3,7 +3,7 @@
 
 ## 🌎 Hello World! <!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> -->
 
-My name is **Lucas**, but people usually call me **Zuleno**!  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">
+My name is **Lucas**, but people usually call me **Zuleno**!  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="15px">
 
 <!-- 
 #### I'm a Son, Student, Developer and Dreamer!!
