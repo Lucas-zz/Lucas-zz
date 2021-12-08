@@ -15,14 +15,14 @@ My name is **Lucas**, but people usually call me **Zuleno**!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I LOVE PETS! And as you can see on my profile pic... I'm a dog person 🐶
 
-## 💬 Let's connect!
+## 💬 Let's connect
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin]
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)][gmail]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)][instagram]
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-989DAB?style=flat&logo=Github&logoColor=white)][github] -->
 
-<div style="display: inline-flex; widht:100%;">
-  <div align="left" style="max-width=100px;">
+<div align="left" style="display: inline-flex; widht:100%;">
+  <div>
     <a href="https://www.linkedin.com/in/azzolinilucas/">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="linkedin" />
     </a>
@@ -38,7 +38,7 @@ My name is **Lucas**, but people usually call me **Zuleno**!
   </div>
 </div>
 
-## 🧠 Languages and Tools:
+## 🧠 Languages and Tools
 
 [<img align="left" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
@@ -64,7 +64,7 @@ My name is **Lucas**, but people usually call me **Zuleno**!
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz&langs_count=3&theme=city_lights" align="center" />
   </a>
   <a href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zuleno&langs_count=5&theme=city_lights" align="center" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zuleno&langs_count=4&theme=city_lights" align="center" />
   </a>
 </div>
 
