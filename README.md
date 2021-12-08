@@ -3,7 +3,7 @@
 
 ## 🌎 Hello World! <!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> -->
 
-My name is **Lucas**, but people usually call me **Zuleno**!  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="15px">
+My name is **Lucas**, but people usually call me **Zuleno**!
 
 <!-- 
 #### I'm a Son, Student, Developer and Dreamer!!
@@ -20,6 +20,7 @@ My name is **Lucas**, but people usually call me **Zuleno**!  <img src="https://
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)][gmail]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)][instagram]
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-989DAB?style=flat&logo=Github&logoColor=white)][github] -->
+
 <div style="display: inline-flex; widht:100%;">
   <div align="left" style="max-width=100px;">
     <a href="https://www.linkedin.com/in/azzolinilucas/">
@@ -53,9 +54,11 @@ My name is **Lucas**, but people usually call me **Zuleno**!  <img src="https://
 <br />
 
 ## 💻 Stats
+
 <!-- 
 [<img align="left" justify="center" title="snake-game-eating-daily-commits.gif" src="https://github.com/Lucas-zz/Lucas-zz/blob/main/github-user-contribution.svg" />][none]
  --> 
+ 
 <div align="center" style="display: flex;">
   <a href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz&langs_count=3&theme=city_lights" align="center" />
