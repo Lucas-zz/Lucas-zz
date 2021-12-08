@@ -126,7 +126,7 @@ My name is **Lucas**, but people usually call me **Zuleno**!
     <img src="https://wakatime.com/badge/user/651d40aa-a53a-4c3b-a2cb-8c0099c4ddd2.svg" title="Total time coded since Oct 6 2021" />
   </a>
   <a href="https://github.com/Lucas-zz?tab=repositories">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Lucas-zz&color=blue" title="Total time coded since Oct 6 2021" />
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Lucas-zz&color=blue" title="Profile Views" />
   </a>
 </div>
 
