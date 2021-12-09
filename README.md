@@ -1,7 +1,7 @@
 <!-- <img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif?raw=true" style="max-width=500px; max-height=350;" /> -->
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" />
 
-<p></p>
+<p/>
 
 ## 🌎 Hello World! <!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> -->
 
@@ -48,7 +48,7 @@ My name is **Lucas**, but people usually call me **Zuleno**!
 
 <div align="left">
   <a href="https://github.com/Lucas-zz">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="Visual Studio Code" width="30px" />
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"       title="Visual Studio Code" width="30px" />
   </a>
  
   <a href="https://github.com/Lucas-zz">
@@ -106,9 +106,11 @@ My name is **Lucas**, but people usually call me **Zuleno**!
  
 ## 💻 Stats
 
-<!-- 
-[<img align="left" justify="center" title="snake-game-eating-daily-commits.gif" src="https://github.com/Lucas-zz/Lucas-zz/blob/main/github-user-contribution.svg" />][none]
- --> 
+<div align="center">
+  <img align="center" alt="snake-game-eating-daily-commits.gif" src="https://github.com/Lucas-zz/Lucas-zz/blob/main/github-user-contribution.svg" />
+</div>
+
+<p />
  
 <div align="center">
   <a href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;">
@@ -119,7 +121,7 @@ My name is **Lucas**, but people usually call me **Zuleno**!
   </a>
 </div>
 
-<br />
+<p/>
  
 <div align="center"> 
   <a href="https://wakatime.com/@651d40aa-a53a-4c3b-a2cb-8c0099c4ddd2">
