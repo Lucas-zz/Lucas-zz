@@ -6,10 +6,6 @@
 ## 🌎 Hello World! <!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> -->
 
 My name is **Lucas**, but people usually call me **Zuleno**!
-
-<!-- 
-#### I'm a Son, Student, Developer and Dreamer!!
- -->
  
 - 🔭 I’m a Full Stack Developer in the making!
 - 🌱 I’m currently learning JavaScript/React
