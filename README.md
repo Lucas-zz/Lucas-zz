@@ -103,7 +103,7 @@ My name is **Lucas**, but people usually call me **Zuleno**!
 ## 💻 Stats
 
 <div align="center">
-  <img align="center" alt="snake-game-eating-daily-commits.gif" src="https://github.com/Lucas-zz/Lucas-zz/blob/main/github-user-contribution.svg" />
+  <img align="center" alt="snake-game-eating-daily-commits.svg" src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/output/github-contribution-grid-snake.svg" />
 </div>
 
 <p />
