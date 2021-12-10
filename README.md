@@ -46,45 +46,45 @@ My name is **Lucas**, but people usually call me **Zuleno**!
 
 ## 🧠 Languages and Tools
 
-<div align="left">
+<div align="left" style="display: inline-flex; justify-content: spaced-between;">
   <a href="https://github.com/Lucas-zz">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"       title="Visual Studio Code" width="30px" />
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"       title="Visual Studio Code" width="50px" />
   </a>
  
   <a href="https://github.com/Lucas-zz">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML5" width="30px" />
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML5" width="50px" />
   </a>
  
   <a href="https://github.com/Lucas-zz">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS3" width="30px" />
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS3" width="50px" />
   </a>
  
   <a href="https://github.com/Lucas-zz">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" title="JavaScript" width="30px" />
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" title="JavaScript" width="50px" />
   </a>
  
   <a href="https://github.com/Lucas-zz">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React" width="30px" />
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React" width="50px" />
   </a>
  
   <a href="https://github.com/Lucas-zz">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" title="C" width="30px" />
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" title="C" width="50px" />
   </a>
  
   <a href="https://github.com/Lucas-zz">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" title="Java" width="30px" />
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" title="Java" width="50px" />
   </a>
  
   <a href="https://github.com/Lucas-zz">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git" width="30px" />
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git" width="50px" />
   </a>
  
   <a href="https://github.com/Lucas-zz">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" title="GitHub" width="30px" />
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" title="GitHub" width="50px" />
   </a>
  
   <a href="https://github.com/Lucas-zz">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" width="30px" />
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" width="50px" />
   </a>
  
   
