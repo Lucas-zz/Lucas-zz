@@ -13,7 +13,7 @@ My name is **Lucas**, but people usually call me **Zuleno**!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I LOVE PETS! And as you can see on my profile pic... I'm a dog person 🐶
 
-## 💬 Let's connect
+## 💬 You can find me on
 
 <!-- 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin]
