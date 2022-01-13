@@ -1,5 +1,5 @@
 <!-- <img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif?raw=true" style="max-width=500px; max-height=350;" /> -->
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" />
+<img align="right" height="300px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" />
 
 <p/>
 
@@ -22,7 +22,7 @@ My name is **Lucas**, but people usually call me **Zuleno**!
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-989DAB?style=flat&logo=Github&logoColor=white)][github]
 -->
 
-<div align="left" style="display: inline-flex; widht:100%;">
+<div align="left">
   <a href="https://www.linkedin.com/in/azzolinilucas/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin" />
   </a>
