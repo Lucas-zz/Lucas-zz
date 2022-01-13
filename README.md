@@ -24,19 +24,19 @@ My name is **Lucas**, but people usually call me **Zuleno**!
 
 <div align="left" style="display: inline-flex; widht:100%;">
   <a href="https://www.linkedin.com/in/azzolinilucas/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin" />
   </a>
   
   <a href="mailto:lucasazzollinivieira@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" title="gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="gmail" />
   </a>
   
   <a href="https://www.instagram.com/zulenno/">
-    <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/" title="instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="instagram" />
   </a>
   
-  <a href="https://github.com/Lucas-zz">
-    <img src="https://img.shields.io/badge/-GitHub-989DAB?style=flat&logo=Github&logoColor=white" title="github" />
+  <a href="https://twitter.com/zulenno">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="github" />
   </a>
 </div>
 
