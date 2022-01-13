@@ -1,9 +1,11 @@
 <!-- <img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif?raw=true" style="max-width=500px; max-height=350;" /> -->
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width='450px' height='350px'/>
+
 
 <p/>
 
 ## 🌎 Hello World! <!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> -->
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width='300px' height='200px'/>
 
 My name is **Lucas**, but people usually call me **Zuleno**!
  
