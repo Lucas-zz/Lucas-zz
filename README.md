@@ -38,6 +38,10 @@ My name is **Lucas**, but people usually call me **Zuleno**!
   <a href="https://twitter.com/zulenno">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="github" />
   </a>
+ 
+  <a href="https://steamcommunity.com/id/lazzn/">
+    <img width="90px" height="29px" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
 </div>
 
 ## 🧠 Languages and Tools
@@ -63,13 +67,13 @@ My name is **Lucas**, but people usually call me **Zuleno**!
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React" width="50px" />
   </a>
  
-  <a href="https://github.com/Lucas-zz">
+<!--   <a href="https://github.com/Lucas-zz">
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" title="C" width="50px" />
   </a>
  
   <a href="https://github.com/Lucas-zz">
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" title="Java" width="50px" />
-  </a>
+  </a> -->
  
   <a href="https://github.com/Lucas-zz">
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git" width="50px" />
@@ -81,9 +85,7 @@ My name is **Lucas**, but people usually call me **Zuleno**!
  
   <a href="https://github.com/Lucas-zz">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" width="50px" />
-  </a>
- 
-  
+  </a>  
 </div>
 
 <!-- 
