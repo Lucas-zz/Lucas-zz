@@ -103,12 +103,6 @@ My name is **Lucas**, but people usually call me **Zuleno**!
  -->
  
 ## 💻 Stats
-
-<div align="center">
-  <img align="center" alt="snake-game-eating-daily-commits.svg" src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/output/github-contribution-grid-snake.svg" />
-</div>
-
-<p />
  
 <div align="center">
   <a href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;">
@@ -117,6 +111,10 @@ My name is **Lucas**, but people usually call me **Zuleno**!
   <a href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;">
     <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zuleno&langs_count=5&theme=discord_old_blurple" align="center" />
   </a>
+</div>
+
+<div align="center">
+  <img align="center" alt="snake-game-eating-daily-commits.svg" src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/output/github-contribution-grid-snake.svg" />
 </div>
 
 <p/>
@@ -129,6 +127,7 @@ My name is **Lucas**, but people usually call me **Zuleno**!
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Lucas-zz&color=blue" title="Profile Views" />
   </a>
 </div>
+
 
 <!-- 
 <img align="left" alt="Lucas' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz" />
