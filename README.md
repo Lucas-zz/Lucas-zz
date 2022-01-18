@@ -8,7 +8,7 @@
 My name is **Lucas**, but people usually call me **Zuleno**!
  
 - 🔭 I’m a Full Stack Developer in the making!
-- 🌱 I’m currently learning JavaScript/React
+- 🌱 I’m currently learning JavaScript/Node.js
 - 💬 Ask me about games and we'll talk all day long
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I LOVE PETS! And as you can see on my profile pic... I'm a dog person 🐶
