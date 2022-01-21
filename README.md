@@ -44,7 +44,7 @@ My name is **Lucas**, but people usually call me **Zuleno**!
   </a> -->
 </div>
 
-## 🧠 Languages and Tools
+### 🧠 Languages and Tools
 
 <div align="left" style="margin: auto">
   <a href="https://github.com/Lucas-zz">
