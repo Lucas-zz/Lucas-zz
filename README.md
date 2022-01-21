@@ -114,7 +114,7 @@ My name is **Lucas**, but people usually call me **Zuleno**!
  
 <div align="center">
   <a href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz&langs_count=3&hide_border=true&theme=discord_old_blurple" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz&langs_count=4&hide_border=true&theme=discord_old_blurple" />
   </a>
  
   <a href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;">
