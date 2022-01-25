@@ -109,7 +109,7 @@
 [<img align="left" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
  -->
  
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%23C9D1D9&duration=4000&vCenter=true&height=25&lines=%F0%9F%92%BB+Stats;%F0%9F%92%BB+And+nerdy+things+:D;)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%23C9D1D9&duration=4000&vCenter=true&height=25&lines=%F0%9F%92%BB+Stats;%F0%9F%92%BB+And+some+nerdy+things+:D;)](https://git.io/typing-svg)
  
 <div align="center">
   <a href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;">
