@@ -5,7 +5,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%23C9D1D9&duration=4000&vCenter=true&height=25&lines=%F0%9F%8C%8E+Hello+World!!;%F0%9F%8C%8E+My+name+is+Lucas!;)](https://git.io/typing-svg)
 <!-- My name is **Lucas**, but people usually call me **Zuleno**! -->
 - 🔭 I’m a Full Stack Developer in the making!
-- 🌱 I’m currently learning JavaScript/Node.js
+- 🌱 I’m currently learning Node.js/MongoDB
 - 💬 Ask me about games and we'll talk all day long
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I LOVE PETS! And as you can see on my profile pic... I'm a dog person 🐶
@@ -69,6 +69,10 @@
  
   <a href="https://github.com/Lucas-zz">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node.js" width="50em" />
+  </a>
+  
+   <a href="https://github.com/Lucas-zz">
+    <img src="https://docs.mongodb.com/assets/favicon.ico" title="MongoDB" width="50em" />
   </a>
  
 <!--   
