@@ -2,7 +2,7 @@
 <img align="right" height="300em" width="420em" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" />
 <!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> -->
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%23C9D1D9&duration=3000&vCenter=true&height=25&lines=%F0%9F%8C%8E+Hello+World!!;My+name+is+Lucas!+)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%23C9D1D9&duration=4000&vCenter=true&height=25&lines=%F0%9F%8C%8E+Hello+World!!;%F0%9F%8C%8E+My+name+is+Lucas!;)](https://git.io/typing-svg)
 <!-- My name is **Lucas**, but people usually call me **Zuleno**! -->
 - 🔭 I’m a Full Stack Developer in the making!
 - 🌱 I’m currently learning JavaScript/Node.js
@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I LOVE PETS! And as you can see on my profile pic... I'm a dog person 🐶
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%23C9D1D9&duration=3000&vCenter=true&height=25&lines=%F0%9F%92%AC+You+can+find+me+on)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%23C9D1D9&duration=4000&vCenter=true&height=25&lines=%F0%9F%92%AC+You+can+find+me+on;%F0%9F%92%AC+Let's+chat+:D;)](https://git.io/typing-svg)
 
 <!-- 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin]
@@ -43,7 +43,7 @@
 -->
 </div>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%23C9D1D9&duration=3000&vCenter=true&height=25&lines=%F0%9F%A7%A0+Languages+and+Tools)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%23C9D1D9&duration=4000&vCenter=true&height=25&lines=%F0%9F%A7%A0+Languages+and+Tools;%F0%9F%A7%A0+Tech+stack+and+so+on;)](https://git.io/typing-svg)
 
 <div align="left" style="margin: auto">
   
@@ -109,7 +109,7 @@
 [<img align="left" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
  -->
  
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%23C9D1D9&duration=3000&vCenter=true&height=25&lines=%F0%9F%92%BB+Stats)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%23C9D1D9&duration=4000&vCenter=true&height=25&lines=%F0%9F%92%BB+Stats;%F0%9F%92%BB+And+nerdy+things+:D;)](https://git.io/typing-svg)
  
 <div align="center">
   <a href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;">
