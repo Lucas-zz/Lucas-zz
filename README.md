@@ -58,6 +58,14 @@
   <a href="https://github.com/Lucas-zz">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS3" width="50em" />
   </a>
+  
+  <a href="https://github.com/Lucas-zz">
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" title="C" width="50em" />
+  </a>
+ 
+  <a href="https://github.com/Lucas-zz">
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" title="Java" width="50em" />
+  </a>
  
   <a href="https://github.com/Lucas-zz">
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" title="JavaScript" width="50em" />
@@ -74,18 +82,6 @@
    <a href="https://github.com/Lucas-zz">
     <img src="https://docs.mongodb.com/assets/favicon.ico" title="MongoDB" width="50em" />
   </a>
- 
-<!--   
-
-  <a href="https://github.com/Lucas-zz">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" title="C" width="50em" />
-  </a>
- 
-  <a href="https://github.com/Lucas-zz">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" title="Java" width="50em" />
-  </a>
-
--->
  
   <a href="https://github.com/Lucas-zz">
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git" width="50em" />
