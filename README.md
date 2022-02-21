@@ -113,11 +113,11 @@
  
 <div align="center">
   <a href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz&langs_count=4&hide_border=true&theme=discord_old_blurple" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz&langs_count=4&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
   </a>
  
   <a href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/?username=Lucas-zz&show_icons=true&hide_border=true&theme=discord_old_blurple" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/?username=Lucas-zz&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
   </a>
  
  <!--
@@ -138,10 +138,11 @@
     <img src="https://wakatime.com/badge/user/651d40aa-a53a-4c3b-a2cb-8c0099c4ddd2.svg" title="Total time coded since Oct 6 2021" />
   </a>
   <a href="https://github.com/Lucas-zz?tab=repositories">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Lucas-zz&color=blue" title="Profile Views" />
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Lucas-zz&color=00bfbf&" title="Profile Views" />
   </a>
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 <!-- 
 <img align="left" alt="Lucas' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz" />
