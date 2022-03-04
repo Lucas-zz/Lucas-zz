@@ -115,11 +115,11 @@
  
 <div align="center">
   <a href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;">
-    <img width="49%" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz&langs_count=4&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+    <img width="49%" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz&langs_count=4&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
   </a>
  
   <a href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;">
-    <img width="49%" height="300em" src="https://github-readme-stats.vercel.app/api/?username=Lucas-zz&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+    <img width="49%" height="250em" src="https://github-readme-stats.vercel.app/api/?username=Lucas-zz&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
   </a>
   
  <!--  
