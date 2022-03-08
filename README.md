@@ -82,6 +82,10 @@
    <a href="https://github.com/Lucas-zz">
     <img src="https://docs.mongodb.com/assets/favicon.ico" title="MongoDB" width="50em" />
   </a>
+  
+  <a href="https://github.com/Lucas-zz">
+    <img src="https://img.icons8.com/color/344/postgreesql.png" title="PostgreSQL" width="50em" />
+  </a>
  
   <a href="https://github.com/Lucas-zz">
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git" width="50em" />
