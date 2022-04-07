@@ -20,23 +20,23 @@
 -->
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/azzolinilucas/">
+  <a href="https://www.linkedin.com/in/azzolinilucas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin" />
   </a>
   
-  <a href="mailto:lucasazzollinivieira@gmail.com">
+  <a href="mailto:lucasazzollinivieira@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="gmail" />
   </a>
 
-  <a href="https://www.instagram.com/zulenno/">
+  <a href="https://www.instagram.com/zulenno/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="instagram" />
   </a>
   
-  <a href="https://twitter.com/zulenno">
+  <a href="https://twitter.com/zulenno" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="twitter" />
   </a>
   
-  <a href="https://steamcommunity.com/id/lazzn/">
+  <a href="https://steamcommunity.com/id/lazzn/" target="_blank">
     <img width="90px" height="29px" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
 
@@ -46,55 +46,55 @@
 
 <div align="left" style="margin: auto">
   
- <a href="https://github.com/Lucas-zz">
+ <a href="https://github.com/Lucas-zz" target="_blank">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"       title="Visual Studio Code" width="50em" />
   </a>
   
-  <a href="https://github.com/Lucas-zz">
+  <a href="https://github.com/Lucas-zz" target="_blank">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML5" width="50em" />
   </a>
  
-  <a href="https://github.com/Lucas-zz">
+  <a href="https://github.com/Lucas-zz" target="_blank">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS3" width="50em" />
   </a>
   
-  <a href="https://github.com/Lucas-zz">
+  <a href="https://github.com/Lucas-zz" target="_blank">
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" title="C" width="50em" />
   </a>
  
-  <a href="https://github.com/Lucas-zz">
+  <a href="https://github.com/Lucas-zz" target="_blank">
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" title="Java" width="50em" />
   </a>
  
-  <a href="https://github.com/Lucas-zz">
+  <a href="https://github.com/Lucas-zz" target="_blank">
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" title="JavaScript" width="50em" />
   </a>
  
-  <a href="https://github.com/Lucas-zz">
+  <a href="https://github.com/Lucas-zz" target="_blank">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React" width="50em" />
   </a>
  
-  <a href="https://github.com/Lucas-zz">
+  <a href="https://github.com/Lucas-zz" target="_blank">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node.js" width="50em" />
   </a>
   
-   <a href="https://github.com/Lucas-zz">
+   <a href="https://github.com/Lucas-zz" target="_blank">
     <img src="https://docs.mongodb.com/assets/favicon.ico" title="MongoDB" width="50em" />
   </a>
   
-  <a href="https://github.com/Lucas-zz">
+  <a href="https://github.com/Lucas-zz" target="_blank">
     <img src="https://img.icons8.com/color/344/postgreesql.png" title="PostgreSQL" width="50em" />
   </a>
  
-  <a href="https://github.com/Lucas-zz">
+  <a href="https://github.com/Lucas-zz" target="_blank">
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git" width="50em" />
   </a>
  
-  <a href="https://github.com/Lucas-zz">
+  <a href="https://github.com/Lucas-zz" target="_blank">
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" title="GitHub" width="50em" />
   </a>
  
-  <a href="https://github.com/Lucas-zz">
+  <a href="https://github.com/Lucas-zz" target="_blank">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" width="50em" />
   </a>  
 </div>
@@ -117,11 +117,11 @@
  <div width="100%" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-zz&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="lucas-zz_contribution_streak" /></div>
  
 <div width="100%" align="center">
-  <a  href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;">
+  <a  href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;" target="_blank">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz&langs_count=8&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
   </a>
  
-  <a  href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;">
+  <a  href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;" target="_blank">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/?username=Lucas-zz&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
   </a>
   
