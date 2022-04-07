@@ -27,7 +27,7 @@
   <a href="mailto:lucasazzollinivieira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="gmail" />
   </a>
-<!--
+
   <a href="https://www.instagram.com/zulenno/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="instagram" />
   </a>
@@ -35,12 +35,11 @@
   <a href="https://twitter.com/zulenno">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="twitter" />
   </a>
- 
-
+  
   <a href="https://steamcommunity.com/id/lazzn/">
     <img width="90px" height="29px" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
--->
+
 </div>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%A7%A0+Languages+and+Tools;%F0%9F%A7%A0+Tech+stack+and+so+on;)](https://git.io/typing-svg)
@@ -119,7 +118,7 @@
  
 <div width="100%" align="center">
   <a  href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz&langs_count=3&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz&langs_count=8&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
   </a>
  
   <a  href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;">
