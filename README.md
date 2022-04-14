@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Typescript
 - 💬 Ask me about games and we'll talk all day long
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I LOVE PETS! And as you can see on my profile pic... I'm a dog person 🐶
+- ⚡ Fun fact: I LOVE PETS! Both cats and dogs, but i'm more of a dog person :D
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%92%AC+You+can+find+me+on;%F0%9F%92%AC+Let's+chat+:D;)](https://git.io/typing-svg)
 
