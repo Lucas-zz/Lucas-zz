@@ -4,7 +4,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%8C%8E+Hello+World!!;%F0%9F%8C%8E+My+name+is+Lucas!;)](https://git.io/typing-svg)
 
 - 🔭 I’m a Full Stack Developer in the making!
-- 🌱 I’m currently learning PostgreSQL
+- 🌱 I’m currently learning Typescript
 - 💬 Ask me about games and we'll talk all day long
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I LOVE PETS! And as you can see on my profile pic... I'm a dog person 🐶
