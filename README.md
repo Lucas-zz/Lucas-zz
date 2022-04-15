@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%8C%8E+Hello+World!!;%F0%9F%8C%8E+My+name+is+Lucas!;)](https://git.io/typing-svg)
 
 <div align="right">
-  <img align="right" width="370em" height="220em" alt="GIF" src="https://data.whicdn.com/images/312124578/original.gif" />
+  <img align="right" width="300em" height="200em" alt="GIF" src="https://data.whicdn.com/images/312124578/original.gif" />
 </div>
 
 <div align="left">
@@ -25,66 +25,66 @@
   </a>
   
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/html5.svg" title="HTML5" width="65em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/html5.svg" title="HTML5" width="50em" />
   </a>
  
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/css3.svg" title="CSS3" width="65em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/css3.svg" title="CSS3" width="50em" />
   </a>
   
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/c.svg" title="C" width="65em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/c.svg" title="C" width="50em" />
   </a>
   
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/csharp.svg" title="C Sharp" width="65em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/csharp.svg" title="C Sharp" width="50em" />
   </a>
   
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/java.svg" title="Java" width="65em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/java.svg" title="Java" width="50em" />
   </a>
  
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/javascript.svg" title="JavaScript" width="65em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/javascript.svg" title="JavaScript" width="50em" />
   </a>
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/typescript.svg" title="TypeScript" width="65em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/typescript.svg" title="TypeScript" width="50em" />
   </a>
  
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/react.svg" title="React" width="65em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/react.svg" title="React" width="50em" />
   </a>
 
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/express.svg" title="express" width="65em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/express.svg" title="express" width="50em" />
   </a>
   
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/nodejs.svg" title="Node.js" width="65em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/nodejs.svg" title="Node.js" width="50em" />
   </a>
   
    <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/mongodb.svg" title="MongoDB" width="65em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/mongodb.svg" title="MongoDB" width="50em" />
   </a>
   
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/postgresql.svg" title="PostgreSQL" width="65em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/postgresql.svg" title="PostgreSQL" width="50em" />
   </a>
  
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/git.svg" title="Git" width="65em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/git.svg" title="Git" width="50em" />
   </a>
  
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/github.svg" title="GitHub" width="65em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/github.svg" title="GitHub" width="50em" />
   </a>
  
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" title="npm" width="65em" />
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" title="npm" width="50em" />
   </a>
   
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" title="Terminal" width="65em" />
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" title="Terminal" width="50em" />
   </a>  
 </div>
  
