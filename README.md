@@ -59,7 +59,10 @@
   </a>
  
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" title="JavaScript" width="50em" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" title="JavaScript" width="50em" />
+  </a>
+  <a href="https://github.com/Lucas-zz" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" title="TypeScript" width="50em" />
   </a>
  
   <a href="https://github.com/Lucas-zz" target="_blank">
