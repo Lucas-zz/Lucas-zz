@@ -15,7 +15,7 @@
 <div align="left" style="margin: auto">
   
  <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/vscode.svg" title="Visual Studio Code" width="65em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/vscode.svg" title="Visual Studio Code" width="50em" />
   </a>
   
   <a href="https://github.com/Lucas-zz" target="_blank">
