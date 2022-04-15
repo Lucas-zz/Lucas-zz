@@ -9,88 +9,75 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I LOVE PETS! Both cats and dogs, but i'm more of a dog person :D
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%92%AC+You+can+find+me+on;%F0%9F%92%AC+Let's+chat+:D;)](https://git.io/typing-svg)
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/azzolinilucas/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin" />
-  </a>
-  
-  <a href="mailto:lucasazzollinivieira@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="gmail" />
-  </a>
-
-  <a href="https://www.instagram.com/zulenno/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="instagram" />
-  </a>
-  
-  <a href="https://twitter.com/zulenno" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="twitter" />
-  </a>
-  
-  <a href="https://steamcommunity.com/id/lazzn/" target="_blank">
-    <img width="90px" height="29px" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  </a>
-
-</div>
-
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%A7%A0+Languages+and+Tools;%F0%9F%A7%A0+Tech+stack+and+so+on;)](https://git.io/typing-svg)
 
 <div align="left" style="margin: auto">
   
  <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"       title="Visual Studio Code" width="50em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/vscode.svg" title="Visual Studio Code" width="65em" />
   </a>
   
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML5" width="50em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/html5.svg" title="HTML5" width="65em" />
   </a>
  
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS3" width="50em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/css3.svg" title="CSS3" width="65em" />
   </a>
   
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" title="C" width="50em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/c.svg" title="C" width="65em" />
+  </a>
+  
+  <a href="https://github.com/Lucas-zz" target="_blank">
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/csharp.svg" title="C Sharp" width="65em" />
+  </a>
+  
+  <a href="https://github.com/Lucas-zz" target="_blank">
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/java.svg" title="Java" width="65em" />
   </a>
  
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" title="Java" width="50em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/javascript.svg" title="JavaScript" width="65em" />
+  </a>
+  <a href="https://github.com/Lucas-zz" target="_blank">
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/typescript.svg" title="TypeScript" width="65em" />
   </a>
  
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" title="JavaScript" width="50em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/react.svg" title="React" width="65em" />
   </a>
+
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" title="TypeScript" width="50em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/express.svg" title="express" width="65em" />
   </a>
- 
+  
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React" width="50em" />
-  </a>
- 
-  <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node.js" width="50em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/nodejs.svg" title="Node.js" width="65em" />
   </a>
   
    <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://docs.mongodb.com/assets/favicon.ico" title="MongoDB" width="50em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/mongodb.svg" title="MongoDB" width="65em" />
   </a>
   
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://img.icons8.com/color/344/postgreesql.png" title="PostgreSQL" width="50em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/postgresql.svg" title="PostgreSQL" width="65em" />
   </a>
  
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git" width="50em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/git.svg" title="Git" width="65em" />
   </a>
  
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" title="GitHub" width="50em" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/github.svg" title="GitHub" width="65em" />
   </a>
  
   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" width="50em" />
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" title="npm" width="65em" />
+  </a>
+  
+  <a href="https://github.com/Lucas-zz" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" title="Terminal" width="65em" />
   </a>  
 </div>
  
@@ -113,6 +100,31 @@
 </div>
 
 <br />
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%92%AC+You+can+find+me+on;%F0%9F%92%AC+Let's+chat+:D;)](https://git.io/typing-svg)
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/azzolinilucas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin" />
+  </a>
+  
+  <a href="mailto:lucasazzollinivieira@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="gmail" />
+  </a>
+
+  <a href="https://www.instagram.com/zulenno/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="instagram" />
+  </a>
+  
+  <a href="https://twitter.com/zulenno" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="twitter" />
+  </a>
+  
+  <a href="https://steamcommunity.com/id/lazzn/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
+
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=90&section=footer"/>
 
