@@ -1,13 +1,20 @@
-
-<img align="right" height="300em" width="420em" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" />
-
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%8C%8E+Hello+World!!;%F0%9F%8C%8E+My+name+is+Lucas!;)](https://git.io/typing-svg)
 
+<div align="right">
+  <img align="right" width="370em" height="220em" alt="GIF" src="https://data.whicdn.com/images/312124578/original.gif" />
+</div>
+
+<div align="left">
+  
 - 🔭 I’m a Full Stack Developer in the making!
 - 🌱 I’m currently learning Typescript
 - 💬 Ask me about games and we'll talk all day long
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I LOVE PETS! Both cats and dogs, but i'm more of a dog person :D
+
+</div>
+
+<br>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%A7%A0+Languages+and+Tools;%F0%9F%A7%A0+Tech+stack+and+so+on;)](https://git.io/typing-svg)
 
