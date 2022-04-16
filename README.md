@@ -88,7 +88,7 @@
  
 <div width="100%" align="center">
   <a  href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;" target="_blank">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz&langs_count=8&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz&langs_count=8&layout=compact&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
   </a>
  
   <a  href="https://github.com/Lucas-zz?tab=repositories" style="text-decoration: none;" target="_blank">
