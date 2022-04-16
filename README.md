@@ -86,13 +86,13 @@
  
  <div width="100%" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-zz&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="lucas-zz_contribution_streak" /></div>
  
-<div width="100%" align="center">
+<div width="110%" align="center">
   <a href="https://github.com/Lucas-zz?tab=repositories" target="_blank">
-    <img widht="250em" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz&langs_count=8&layout=compact&card_width=250&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz&langs_count=8&layout=compact&card_width=230&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
   </a>
  
   <a href="https://github.com/Lucas-zz?tab=repositories" target="_blank">
-    <img widht="250em" height="200px" src="https://github-readme-stats.vercel.app/api/?username=Lucas-zz&show_icons=true&card_width=250&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/?username=Lucas-zz&show_icons=true&card_width=200&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
   </a>
 </div>
 
