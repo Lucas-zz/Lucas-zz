@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%8C%8E+Hello+World!!;%F0%9F%8C%8E+My+name+is+Lucas!;)](https://git.io/typing-svg)
 
-<img align="right" width="300em" height="200em" alt="GIF" src="https://data.whicdn.com/images/312124578/original.gif" />
+<!-- <img align="right" width="300em" height="200em" alt="GIF" src="https://data.whicdn.com/images/312124578/original.gif" /> -->
 
 - 🔭 I’m a Full Stack Developer in the making!
 - 🌱 I’m currently learning Typescript
