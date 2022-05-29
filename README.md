@@ -3,7 +3,7 @@
 <!-- <img align="right" width="300em" height="200em" alt="GIF" src="https://data.whicdn.com/images/312124578/original.gif" /> -->
 
 - 🔭 I’m a Full Stack Developer in the making!
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Docker, AWS
 - 💬 Ask me about games and we'll talk all day long
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I LOVE PETS! Both cats and dogs, <br> but i'm more of a dog person :D
