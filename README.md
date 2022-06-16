@@ -113,13 +113,15 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="gmail" />
   </a>
 
-  <a href="https://www.instagram.com/zulenno/" target="_blank">
+<!--
+ <a href="https://www.instagram.com/zulenno/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="instagram" />
   </a>
   
   <a href="https://twitter.com/zulenno" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="twitter" />
-  </a>
+  </a> 
+-->
   
   <a href="https://steamcommunity.com/id/lazzn/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
