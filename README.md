@@ -12,75 +12,51 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%A7%A0+Languages+and+Tools;%F0%9F%A7%A0+Tech+stack+and+so+on;)](https://git.io/typing-svg)
 
-<div align="left" style="margin: auto">
-  
- <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/vscode.svg" title="Visual Studio Code" width="50em" />
-  </a>
-  
-  <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/html5.svg" title="HTML5" width="50em" />
-  </a>
- 
-  <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/css3.svg" title="CSS3" width="50em" />
-  </a>
-  
-  <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/c.svg" title="C" width="50em" />
-  </a>
-  
-  <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/csharp.svg" title="C Sharp" width="50em" />
-  </a>
-  
-  <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/java.svg" title="Java" width="50em" />
-  </a>
- 
-  <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/javascript.svg" title="JavaScript" width="50em" />
-  </a>
-  <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/typescript.svg" title="TypeScript" width="50em" />
-  </a>
- 
-  <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/react.svg" title="React" width="50em" />
-  </a>
+  #### Languages
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![CSHARP](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-  <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/express.svg" title="express" width="50em" />
-  </a>
-  
-  <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/nodejs.svg" title="Node.js" width="50em" />
-  </a>
-  
-   <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/mongodb.svg" title="MongoDB" width="50em" />
-  </a>
-  
-  <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/postgresql.svg" title="PostgreSQL" width="50em" />
-  </a>
- 
-  <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/git.svg" title="Git" width="50em" />
-  </a>
- 
-  <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/main/icons/github.svg" title="GitHub" width="50em" />
-  </a>
- 
-  <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" title="npm" width="50em" />
-  </a>
-  
-  <a href="https://github.com/Lucas-zz" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" title="Terminal" width="50em" />
-  </a>  
-</div>
+  #### Front-end
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+  ![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+  #### Back-end 
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+  #### Deploy
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+  #### Automated Test
+  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+
+  #### Tools
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+  ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+  ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
+  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+  ![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)
+  ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
  
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%92%BB+Stats;%F0%9F%92%BB+And+some+nerdy+stuff+:D;)](https://git.io/typing-svg)
  
