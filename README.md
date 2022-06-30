@@ -19,8 +19,8 @@
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![CSHARP](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+  <!-- ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
 
   #### Front-end
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -62,7 +62,8 @@
   ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
   ![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)
   ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
- 
+
+
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%92%BB+Stats;%F0%9F%92%BB+And+some+nerdy+stuff+:D;)](https://git.io/typing-svg)
  
  <div width="100%" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-zz&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="lucas-zz_contribution_streak" /></div>
