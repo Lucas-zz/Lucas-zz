@@ -117,5 +117,3 @@
 [gmail]: mailto:lucasazzollinivieira@gmail.com
 [instagram]: https://www.instagram.com/zulenno/
 [github]: https://github.com/Lucas-zz
-
-[none]:# 
