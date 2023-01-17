@@ -70,11 +70,17 @@
  
 <div width="110%" align="center">
   <a href="https://github.com/Lucas-zz?tab=repositories" target="_blank">
+    <!--
     <img height="200px" src="https://github-readme-stats.vercel.app/api/?username=Lucas-zz&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+    -->
+    <img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas-zz&theme=github_dark"/>
   </a>
   
   <a href="https://github.com/Lucas-zz?tab=repositories" target="_blank">
+    <!--
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-zz&langs_count=8&layout=compact&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+    -->
+    <img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucas-zz&theme=github_dark"/>
   </a>
 </div>
 
