@@ -148,7 +148,7 @@
 
  
 <div width="100%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-zz&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="lucas-zz_contribution_streak" />
+  <img src="https://streak-stats.demolab.com/?user=Lucas-zz&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="[lucas-zz_contribution_streak](https://git.io/streak-stats)" />
 </div>
  
 <div width="110%" align="center">
