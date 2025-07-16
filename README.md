@@ -4,13 +4,11 @@
 
 🔭 I’m a Full Stack Developer!
 <br>
-🌱 I’m currently learning web3 and blockchain
+🌱 I’m currently diving into the web3 and blockchain world
 <br>
 💬 Ask me about games and we'll talk all day long
 <br>
-😄 Pronouns: He/Him
-<br>
-⚡ Fun fact: I LOVE PETS! Both cats and dogs, <br> but I'm more of a dog person :D
+⚡ Fun fact: I LOVE PETS! Both cats and dogs, but I'm more of a dog person :D
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%A7%A0+Languages+and+Tools;%F0%9F%A7%A0+Tech+stack+and+so+on;)](https://git.io/typing-svg)
 
@@ -91,7 +89,6 @@
 </table>
 
 <!--
-
   #### Front-end
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -141,14 +138,12 @@
   ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
   ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
   ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-
-  -->
+-->
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%92%BB+Stats;%F0%9F%92%BB+And+some+nerdy+stuff+:D;)](https://git.io/typing-svg)
 
- 
 <div width="100%" align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lucas-zz&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="[lucas-zz_contribution_streak](https://git.io/streak-stats)" />
+  <img src="https://streak-stats.demolab.com?user=Lucas-zz&theme=black-ice&hide_border=false&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&ring=00BFBF&fire=00BFBF&currStreakLabel=00BFBF" alt="GitHub Streak" />
 </div>
  
 <div width="110%" align="center">
@@ -173,11 +168,13 @@
 </div>
 -->
 
-<br />
-
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%2300BFBF&duration=4000&vCenter=true&height=25&lines=%F0%9F%92%AC+You+can+find+me+on;%F0%9F%92%AC+Let's+chat+:D;)](https://git.io/typing-svg)
 
 <div align="center">
+  <a href="https://discord.com/users/186683033959530496" target="_blank">
+    <img title="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  
   <a href="https://www.linkedin.com/in/azzolinilucas/" target="_blank">
     <img title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -186,19 +183,17 @@
     <img title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="mailto:lucasazzollinivieira@gmail.com" target="_blank">
+  <a href="mailto:lucasazzollinivieira@hotmail.com" target="_blank">
     <img title="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-
+  
 <!--
- <a href="https://www.instagram.com/zulenno/" target="_blank">
+  <a href="https://www.instagram.com/zulenno/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="instagram" />
   </a>
-  
   <a href="https://twitter.com/zulenno" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="twitter" />
   </a> 
-  
   <a href="https://steamcommunity.com/id/lazzn/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
