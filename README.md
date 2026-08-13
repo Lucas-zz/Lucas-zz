@@ -37,7 +37,7 @@ I'm a Software Engineer at **Sonica | Web3 Hub**, based in Blumenau, Brazil. I b
 ## 🧰 Toolbox
 
 <p align="center">
-  <sub><strong>Application engineering</strong></sub>
+  <sub><strong>Core stack</strong></sub>
   <br /><br />
   <img width="48" src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" />
   <img width="48" src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
@@ -46,23 +46,20 @@ I'm a Software Engineer at **Sonica | Web3 Hub**, based in Blumenau, Brazil. I b
   <img width="48" src="https://skillicons.dev/icons?i=nestjs" title="NestJS" alt="NestJS" />
   <img width="48" src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" />
   <img width="48" src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" />
-</p>
-
-<p align="center">
-  <sub><strong>Data, APIs &amp; reliability</strong></sub>
-  <br /><br />
   <img width="48" src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
+  <br />
   <img width="48" src="https://skillicons.dev/icons?i=prisma" title="Prisma" alt="Prisma" />
   <img width="48" src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" />
-  <img src="https://img.shields.io/badge/BullMQ-D82C20?style=for-the-badge&amp;logo=redis&amp;logoColor=white" title="BullMQ" alt="BullMQ" />
-  <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&amp;logo=swr&amp;logoColor=white" title="SWR" alt="SWR" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&amp;logo=axios&amp;logoColor=white" title="Axios" alt="Axios" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&amp;logo=zod&amp;logoColor=white" title="Zod" alt="Zod" />
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&amp;logo=openapiinitiative&amp;logoColor=white" title="OpenAPI and Swagger" alt="OpenAPI" />
+  <img width="48" src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
+  <img width="48" src="https://skillicons.dev/icons?i=aws" title="AWS — Amplify, ECR and ECS" alt="AWS" />
+  <img width="48" src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" />
+  <img width="48" src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" />
+  <img width="48" src="https://skillicons.dev/icons?i=vitest" title="Vitest" alt="Vitest" />
+  <img width="48" src="https://skillicons.dev/icons?i=jest" title="Jest" alt="Jest" />
 </p>
 
 <p align="center">
-  <sub><strong>Web3 &amp; on-chain infrastructure</strong></sub>
+  <sub><strong>Platforms &amp; integrations</strong></sub>
   <br /><br />
   <img src="https://img.shields.io/badge/thirdweb-F213A4?style=for-the-badge&amp;logo=thirdweb&amp;logoColor=white" title="thirdweb" alt="thirdweb" />
   <img src="https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&amp;logo=ethers&amp;logoColor=white" title="ethers.js" alt="ethers.js" />
@@ -70,36 +67,13 @@ I'm a Software Engineer at **Sonica | Web3 Hub**, based in Blumenau, Brazil. I b
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" title="Ethereum" alt="Ethereum" />
   <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&amp;logo=polygon&amp;logoColor=white" title="Polygon" alt="Polygon" />
   <img src="https://img.shields.io/badge/XRPL-23292F?style=for-the-badge&amp;logo=xrp&amp;logoColor=white" title="XRP Ledger" alt="XRP Ledger" />
+  <br />
   <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&amp;logo=ipfs&amp;logoColor=white" title="IPFS" alt="IPFS" />
   <img src="https://img.shields.io/badge/ERC--4337-6C5CE7?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" title="ERC-4337 Account Abstraction" alt="ERC-4337" />
-</p>
-
-<p align="center">
-  <sub><strong>Cloud, delivery &amp; quality</strong></sub>
-  <br /><br />
-  <img width="48" src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
-  <img width="48" src="https://skillicons.dev/icons?i=aws" title="AWS — Amplify, ECR and ECS" alt="AWS" />
-  <img width="48" src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" />
-  <img width="48" src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" />
-  <img width="48" src="https://skillicons.dev/icons?i=vitest" title="Vitest" alt="Vitest" />
-  <img width="48" src="https://skillicons.dev/icons?i=jest" title="Jest" alt="Jest" />
-  <img width="48" src="https://skillicons.dev/icons?i=testinglibrary" title="Testing Library" alt="Testing Library" />
-  <img width="48" src="https://skillicons.dev/icons?i=eslint" title="ESLint" alt="ESLint" />
-  <img width="48" src="https://skillicons.dev/icons?i=prettier" title="Prettier" alt="Prettier" />
-  <img width="48" src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
-  <img width="48" src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" />
-</p>
-
-<p align="center">
-  <sub><strong>Product integrations</strong></sub>
-  <br /><br />
+  <img src="https://img.shields.io/badge/BullMQ-D82C20?style=for-the-badge&amp;logo=redis&amp;logoColor=white" title="BullMQ" alt="BullMQ" />
   <img src="https://img.shields.io/badge/PIX-32BCAD?style=for-the-badge&amp;logo=pix&amp;logoColor=white" title="PIX payment flows" alt="PIX" />
   <img src="https://img.shields.io/badge/Asaas-0030B9?style=for-the-badge" title="Asaas payments" alt="Asaas" />
   <img src="https://img.shields.io/badge/D4Sign-6941C6?style=for-the-badge" title="D4Sign document signatures" alt="D4Sign" />
-  <img src="https://img.shields.io/badge/Crossmint-00C2FF?style=for-the-badge" title="Crossmint" alt="Crossmint" />
-  <img src="https://img.shields.io/badge/Moralis-2E7DAF?style=for-the-badge" title="Moralis" alt="Moralis" />
-  <img src="https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&amp;logo=mixpanel&amp;logoColor=white" title="Mixpanel" alt="Mixpanel" />
-  <img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&amp;logo=i18next&amp;logoColor=white" title="i18next" alt="i18next" />
 </p>
 
 ## 📊 GitHub snapshot
