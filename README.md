@@ -37,16 +37,30 @@ I'm a Software Engineer at **Sonica | Web3 Hub**, based in Blumenau, Brazil. I b
 ## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,postgres,prisma,redis,docker,aws,vercel,jest,cypress,git,linux&amp;perline=8" alt="TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, Prisma, Redis, Docker, AWS, Vercel, Jest, Cypress, Git, and Linux" />
+  <img width="48" src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" />
+  <img width="48" src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
+  <img width="48" src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" />
+  <img width="48" src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" />
+  <img width="48" src="https://skillicons.dev/icons?i=nestjs" title="NestJS" alt="NestJS" />
+  <img width="48" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
+  <img width="48" src="https://skillicons.dev/icons?i=prisma" title="Prisma" alt="Prisma" />
+  <img width="48" src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" />
+  <img width="48" src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
+  <img width="48" src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" />
+  <img width="48" src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" />
+  <img width="48" src="https://skillicons.dev/icons?i=jest" title="Jest" alt="Jest" />
+  <img width="48" src="https://skillicons.dev/icons?i=cypress" title="Cypress" alt="Cypress" />
+  <img width="48" src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+  <img width="48" src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" />
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ethers.js-2535A0?style=flat-square&amp;logo=ethereum&amp;logoColor=white" alt="ethers.js" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&amp;logo=solidity&amp;logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/thirdweb-F213A4?style=flat-square&amp;logo=thirdweb&amp;logoColor=white" alt="thirdweb" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&amp;logo=mui&amp;logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/ethers.js-2535A0?style=flat-square&amp;logo=ethereum&amp;logoColor=white" title="ethers.js" alt="ethers.js" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&amp;logo=solidity&amp;logoColor=white" title="Solidity" alt="Solidity" />
+  <img src="https://img.shields.io/badge/thirdweb-F213A4?style=flat-square&amp;logo=thirdweb&amp;logoColor=white" title="thirdweb" alt="thirdweb" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" title="Tailwind CSS" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&amp;logo=mui&amp;logoColor=white" title="Material UI" alt="Material UI" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" title="GitHub Actions" alt="GitHub Actions" />
 </div>
 
 ## 📊 GitHub snapshot
