@@ -161,18 +161,32 @@ const lanyardPresence = lanyard?.success && lanyard.data
     }
   : null
 const statusBadgesPresence = normalizeStatusBadges(statusBadges)
-const presence = lanyardPresence ?? statusBadgesPresence
+const presence = statusBadgesPresence ?? lanyardPresence
 
 if (!presence) {
   throw new Error('No presence provider returned trustworthy data')
 }
 
-const fallbackActivities = statusBadgesPresence?.activities ?? []
+const fallbackPresence = presence === statusBadgesPresence
+  ? lanyardPresence
+  : statusBadgesPresence
+const fallbackActivities = fallbackPresence?.activities ?? []
 const activities = presence.activities.length > 0
   ? presence.activities
   : fallbackActivities
 const status = presence.status
-const spotify = presence.spotify ?? statusBadgesPresence?.spotify
+const spotify = presence.spotify ?? fallbackPresence?.spotify
+const providers = new Set([presence.provider])
+
+if (presence.activities.length === 0 && fallbackActivities.length > 0) {
+  providers.add(fallbackPresence.provider)
+}
+
+if (!presence.spotify && fallbackPresence?.spotify) {
+  providers.add(fallbackPresence.provider)
+}
+
+const provider = [...providers].join('+')
 const coding = activities.find(
   activity => activity.type === 0 && EDITOR_NAMES.has(activity.name),
 )
@@ -239,7 +253,7 @@ await writeFile(
   `${JSON.stringify({
     schemaVersion: 1,
     generatedAt: now,
-    provider: presence.provider,
+    provider,
     status,
     activities: activityState,
   }, null, 2)}\n`,
@@ -247,7 +261,7 @@ await writeFile(
 
 console.log(
   JSON.stringify({
-    provider: presence.provider,
+    provider,
     status,
     playing: activityState.playing.value,
     coding: activityState.coding.value,

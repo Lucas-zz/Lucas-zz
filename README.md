@@ -8,13 +8,13 @@
   <br />
 
   <a href="https://www.linkedin.com/in/azzolinilucas/">
-    <img width="48" src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" title="LinkedIn" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://portfolio-lucas-zz.vercel.app/">
-    <img width="48" src="https://skillicons.dev/icons?i=vercel&amp;theme=dark" title="Portfolio" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:lucasazzollinivieira@gmail.com">
-    <img width="48" src="https://skillicons.dev/icons?i=gmail&amp;theme=dark" title="Email" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -110,13 +110,13 @@ I'm a Software Engineer at **Sonica | Web3 Hub**, based in Blumenau, Brazil. I b
 
 <div align="center">
   <a href="https://discord.com/users/186683033959530496">
-    <img width="48" src="https://skillicons.dev/icons?i=discord&amp;theme=dark" title="Discord" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" />
   </a>
   <a href="https://x.com/zulenno">
-    <img width="48" src="https://skillicons.dev/icons?i=twitter&amp;theme=dark" title="X / Twitter" alt="X / Twitter" />
+    <img src="https://img.shields.io/badge/@zulenno-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" />
   </a>
   <a href="mailto:lucasazzollinivieira@gmail.com">
-    <img width="48" src="https://skillicons.dev/icons?i=gmail&amp;theme=dark" title="Email" alt="Email" />
+    <img src="https://img.shields.io/badge/Say_hello-00BFBF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" />
   </a>
 </div>
 
