@@ -163,26 +163,31 @@ const lanyardPresence = lanyard?.success && lanyard.data
 const statusBadgesPresence = normalizeStatusBadges(statusBadges)
 const presence = statusBadgesPresence ?? lanyardPresence
 
-if (!presence) {
-  throw new Error('No presence provider returned trustworthy data')
-}
+const now = Date.now()
+const cachedStateWithinGracePeriod =
+  previousState?.generatedAt &&
+  now - previousState.generatedAt <= ACTIVITY_GRACE_PERIOD_MS
 
-const fallbackPresence = presence === statusBadgesPresence
-  ? lanyardPresence
-  : statusBadgesPresence
+const fallbackPresence = !presence
+  ? null
+  : presence === statusBadgesPresence
+    ? lanyardPresence
+    : statusBadgesPresence
 const fallbackActivities = fallbackPresence?.activities ?? []
-const activities = presence.activities.length > 0
-  ? presence.activities
-  : fallbackActivities
-const status = presence.status
-const spotify = presence.spotify ?? fallbackPresence?.spotify
-const providers = new Set([presence.provider])
+const activities = presence
+  ? presence.activities.length > 0
+    ? presence.activities
+    : fallbackActivities
+  : []
+const status = presence?.status ?? null
+const spotify = presence?.spotify ?? fallbackPresence?.spotify ?? null
+const providers = presence ? new Set([presence.provider]) : new Set()
 
-if (presence.activities.length === 0 && fallbackActivities.length > 0) {
+if (presence && presence.activities.length === 0 && fallbackActivities.length > 0) {
   providers.add(fallbackPresence.provider)
 }
 
-if (!presence.spotify && fallbackPresence?.spotify) {
+if (presence && !presence.spotify && fallbackPresence?.spotify) {
   providers.add(fallbackPresence.provider)
 }
 
@@ -196,27 +201,28 @@ const playing = activities.find(
     !EDITOR_NAMES.has(activity.name) &&
     activity.name !== 'Spotify',
 )
-const now = Date.now()
+const stateForRetain =
+  presence || cachedStateWithinGracePeriod ? previousState : null
 const activityState = {
   playing: retainRecentActivity(
     'playing',
     playing?.name ?? null,
     status,
-    previousState,
+    stateForRetain,
     now,
   ),
   coding: retainRecentActivity(
     'coding',
     coding ? codingMessage(coding) : null,
     status,
-    previousState,
+    stateForRetain,
     now,
   ),
   spotify: retainRecentActivity(
     'spotify',
     spotify ? compact(`${spotify.song} · ${spotify.artist}`) : null,
     status,
-    previousState,
+    stateForRetain,
     now,
   ),
 }
@@ -226,7 +232,7 @@ await mkdir(OUTPUT_DIRECTORY, { recursive: true })
 await Promise.all([
   downloadBadge('status.svg', {
     label: 'currently',
-    message: status,
+    message: status ?? 'unavailable',
     color: STATUS_COLORS[status] ?? 'lightgrey',
   }),
   downloadBadge('playing.svg', {
