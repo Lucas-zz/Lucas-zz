@@ -76,13 +76,14 @@ I'm a Software Engineer at **Sonica | Web3 Hub**, based in Blumenau, Brazil. I b
   <img src="https://img.shields.io/badge/D4Sign-6941C6?style=for-the-badge" title="D4Sign document signatures" alt="D4Sign" />
 </p>
 
-## 🟢 Live presence
-
-<div align="center">
+<p align="center">
   <a href="https://discord.com/users/186683033959530496">
-    <img src="https://lanyard-profile-readme.vercel.app/api/186683033959530496?theme=dark&amp;bg=0d1117&amp;animated=false&amp;hideDiscrim=true&amp;hideBadges=true&amp;hideActivity=whenNotUsed&amp;borderRadius=8px" title="Live Discord status and current activity" alt="Lucas's live Discord status and current activity" />
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/presence/status.svg" title="Current Discord status" alt="Current Discord status" />
   </a>
-</div>
+  <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/presence/playing.svg" title="Current game" alt="Current game" />
+  <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/presence/coding.svg" title="Current coding activity" alt="Current coding activity" />
+  <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/presence/spotify.svg" title="Currently listening on Spotify" alt="Currently listening on Spotify" />
+</p>
 
 ## 📊 GitHub snapshot
 

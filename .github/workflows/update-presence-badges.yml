@@ -1,0 +1,44 @@
+name: Update presence badges
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-presence-badges
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out the profile source
+        uses: actions/checkout@v4
+
+      - name: Generate badges from Lanyard
+        run: node scripts/update-presence-badges.mjs "$RUNNER_TEMP/presence-badges"
+
+      - name: Publish the generated branch
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          publish_directory="$(mktemp -d)"
+          cp "$RUNNER_TEMP"/presence-badges/*.svg "$publish_directory"/
+          cd "$publish_directory"
+
+          git init --initial-branch=presence
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- *.svg
+          git commit -m "Update Discord presence badges"
+          git push --force \
+            "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \
+            HEAD:presence
