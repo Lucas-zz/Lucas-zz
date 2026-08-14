@@ -29,7 +29,7 @@
 
 ## 👋 About me
 
-I'm a Software Engineer at **Sonica | Web3 Hub**, based in Blumenau, Brazil. I build product-grade Web3 and fintech experiences across the full stack—from polished interfaces to the services, data, and asynchronous workflows behind them.
+I'm a Software Engineer at **Sonica**, based in Florianópolis, Brazil. I build product-grade Web3 and fintech experiences across the full stack—from polished interfaces to the services, data, and asynchronous workflows behind them.
 
 - 🧩 I turn complex payment, identity, and blockchain flows into clear product experiences.
 - 🛠️ My core stack is TypeScript, React, Next.js, Node.js, NestJS, MySQL, Prisma, and Redis.
