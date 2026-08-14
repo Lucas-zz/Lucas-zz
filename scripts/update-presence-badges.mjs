@@ -1,9 +1,14 @@
-import { mkdir, writeFile } from 'node:fs/promises'
+import { mkdir, readFile, writeFile } from 'node:fs/promises'
 import path from 'node:path'
 
 const DISCORD_USER_ID = '186683033959530496'
-const LANYARD_URL = `https://api.lanyard.rest/v1/users/${DISCORD_USER_ID}`
+const LANYARD_URL = process.env.LANYARD_URL ??
+  `https://api.lanyard.rest/v1/users/${DISCORD_USER_ID}`
+const STATUS_BADGES_URL = process.env.STATUS_BADGES_URL ??
+  `https://api.statusbadges.me/presence/${DISCORD_USER_ID}`
 const OUTPUT_DIRECTORY = process.argv[2] ?? 'presence-badges'
+const PREVIOUS_STATE_FILE = process.argv[3]
+const ACTIVITY_GRACE_PERIOD_MS = 15 * 60 * 1000
 
 const EDITOR_NAMES = new Set([
   'Code',
@@ -43,6 +48,76 @@ function codingMessage(activity) {
   return compact(workspace ?? activity.name)
 }
 
+async function fetchJson(url) {
+  try {
+    const response = await fetch(url, {
+      headers: { 'User-Agent': 'Lucas-zz/Lucas-zz presence badge updater' },
+    })
+
+    if (!response.ok) {
+      return null
+    }
+
+    return await response.json()
+  } catch {
+    return null
+  }
+}
+
+async function readPreviousState() {
+  if (!PREVIOUS_STATE_FILE) {
+    return null
+  }
+
+  try {
+    return JSON.parse(await readFile(PREVIOUS_STATE_FILE, 'utf8'))
+  } catch {
+    return null
+  }
+}
+
+function normalizeStatusBadges(data) {
+  const activities = Array.isArray(data?.activities) ? data.activities : []
+  const hasActiveClient = Object.keys(data?.client_status ?? {}).length > 0
+  const hasObservablePresence =
+    activities.length > 0 || hasActiveClient || data?.status !== 'offline'
+
+  if (!data?.status || !hasObservablePresence) {
+    return null
+  }
+
+  const spotifyActivity = activities.find(
+    activity => activity.type === 2 && activity.name === 'Spotify',
+  )
+
+  return {
+    provider: 'statusbadges',
+    status: data.status,
+    activities,
+    spotify: spotifyActivity
+      ? { song: spotifyActivity.details, artist: spotifyActivity.state }
+      : null,
+  }
+}
+
+function retainRecentActivity(key, currentValue, status, previousState, now) {
+  if (currentValue) {
+    return { value: currentValue, lastSeenAt: now }
+  }
+
+  const previous = previousState?.activities?.[key]
+  const isRecent =
+    previous?.value &&
+    Number.isFinite(previous.lastSeenAt) &&
+    now - previous.lastSeenAt <= ACTIVITY_GRACE_PERIOD_MS
+
+  if (status !== 'offline' && isRecent) {
+    return previous
+  }
+
+  return { value: null, lastSeenAt: previous?.lastSeenAt ?? null }
+}
+
 function badgeUrl({ label, message, color, logo }) {
   const badge = `${escapeBadgeSegment(label)}-${escapeBadgeSegment(message)}-${color}`
   const query = new URLSearchParams({ style: 'flat', logoColor: 'white' })
@@ -72,21 +147,32 @@ async function downloadBadge(filename, options) {
   await writeFile(path.join(OUTPUT_DIRECTORY, filename), svg)
 }
 
-const lanyardResponse = await fetch(LANYARD_URL, {
-  headers: { 'User-Agent': 'Lucas-zz/Lucas-zz presence badge updater' },
-})
+const [lanyard, statusBadges, previousState] = await Promise.all([
+  fetchJson(LANYARD_URL),
+  fetchJson(STATUS_BADGES_URL),
+  readPreviousState(),
+])
+const lanyardPresence = lanyard?.success && lanyard.data
+  ? {
+      provider: 'lanyard',
+      status: lanyard.data.discord_status,
+      activities: lanyard.data.activities ?? [],
+      spotify: lanyard.data.spotify,
+    }
+  : null
+const statusBadgesPresence = normalizeStatusBadges(statusBadges)
+const presence = lanyardPresence ?? statusBadgesPresence
 
-if (!lanyardResponse.ok) {
-  throw new Error(`Lanyard returned ${lanyardResponse.status}`)
+if (!presence) {
+  throw new Error('No presence provider returned trustworthy data')
 }
 
-const lanyard = await lanyardResponse.json()
-
-if (!lanyard.success || !lanyard.data) {
-  throw new Error('Lanyard did not return presence data')
-}
-
-const { activities = [], discord_status: status, spotify } = lanyard.data
+const fallbackActivities = statusBadgesPresence?.activities ?? []
+const activities = presence.activities.length > 0
+  ? presence.activities
+  : fallbackActivities
+const status = presence.status
+const spotify = presence.spotify ?? statusBadgesPresence?.spotify
 const coding = activities.find(
   activity => activity.type === 0 && EDITOR_NAMES.has(activity.name),
 )
@@ -96,6 +182,30 @@ const playing = activities.find(
     !EDITOR_NAMES.has(activity.name) &&
     activity.name !== 'Spotify',
 )
+const now = Date.now()
+const activityState = {
+  playing: retainRecentActivity(
+    'playing',
+    playing?.name ?? null,
+    status,
+    previousState,
+    now,
+  ),
+  coding: retainRecentActivity(
+    'coding',
+    coding ? codingMessage(coding) : null,
+    status,
+    previousState,
+    now,
+  ),
+  spotify: retainRecentActivity(
+    'spotify',
+    spotify ? compact(`${spotify.song} · ${spotify.artist}`) : null,
+    status,
+    previousState,
+    now,
+  ),
+}
 
 await mkdir(OUTPUT_DIRECTORY, { recursive: true })
 
@@ -107,30 +217,40 @@ await Promise.all([
   }),
   downloadBadge('playing.svg', {
     label: 'playing',
-    message: compact(playing?.name ?? 'nothing rn'),
-    color: playing ? '5865F2' : '8A63D2',
+    message: compact(activityState.playing.value ?? 'nothing rn'),
+    color: activityState.playing.value ? '5865F2' : '8A63D2',
   }),
   downloadBadge('coding.svg', {
     label: 'coding',
-    message: codingMessage(coding),
+    message: activityState.coding.value ?? 'nothing rn',
     color: '007ACC',
     logo: 'visualstudiocode',
   }),
   downloadBadge('spotify.svg', {
     label: 'listening to',
-    message: spotify
-      ? compact(`${spotify.song} · ${spotify.artist}`)
-      : 'nothing rn',
+    message: activityState.spotify.value ?? 'nothing rn',
     color: '1DB954',
     logo: 'spotify',
   }),
 ])
 
+await writeFile(
+  path.join(OUTPUT_DIRECTORY, 'presence.json'),
+  `${JSON.stringify({
+    schemaVersion: 1,
+    generatedAt: now,
+    provider: presence.provider,
+    status,
+    activities: activityState,
+  }, null, 2)}\n`,
+)
+
 console.log(
   JSON.stringify({
+    provider: presence.provider,
     status,
-    playing: playing?.name ?? null,
-    coding: codingMessage(coding),
-    spotify: spotify ? `${spotify.song} · ${spotify.artist}` : null,
+    playing: activityState.playing.value,
+    coding: activityState.coding.value,
+    spotify: activityState.spotify.value,
   }),
 )

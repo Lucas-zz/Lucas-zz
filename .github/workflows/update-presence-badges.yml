@@ -21,8 +21,17 @@ jobs:
       - name: Check out the profile source
         uses: actions/checkout@v4
 
-      - name: Generate badges from Lanyard
-        run: node scripts/update-presence-badges.mjs "$RUNNER_TEMP/presence-badges"
+      - name: Load the last published presence
+        run: |
+          git clone --depth 1 --branch presence \
+            "https://github.com/${GITHUB_REPOSITORY}.git" \
+            "$RUNNER_TEMP/current-presence"
+
+      - name: Generate resilient presence badges
+        run: |
+          node scripts/update-presence-badges.mjs \
+            "$RUNNER_TEMP/presence-badges" \
+            "$RUNNER_TEMP/current-presence/presence.json"
 
       - name: Publish the generated branch
         env:
@@ -32,12 +41,13 @@ jobs:
 
           publish_directory="$(mktemp -d)"
           cp "$RUNNER_TEMP"/presence-badges/*.svg "$publish_directory"/
+          cp "$RUNNER_TEMP"/presence-badges/presence.json "$publish_directory"/
           cd "$publish_directory"
 
           git init --initial-branch=presence
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- *.svg
+          git add -- *.svg presence.json
           git commit -m "Update Discord presence badges"
           git push --force \
             "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \

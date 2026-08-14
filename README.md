@@ -8,15 +8,24 @@
   <br />
 
   <a href="https://www.linkedin.com/in/azzolinilucas/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+    <img width="48" src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" title="LinkedIn" alt="LinkedIn" />
   </a>
   <a href="https://portfolio-lucas-zz.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
+    <img width="48" src="https://skillicons.dev/icons?i=vercel&amp;theme=dark" title="Portfolio" alt="Portfolio" />
   </a>
   <a href="mailto:lucasazzollinivieira@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+    <img width="48" src="https://skillicons.dev/icons?i=gmail&amp;theme=dark" title="Email" alt="Email" />
   </a>
 </div>
+
+<p align="center">
+  <a href="https://discord.com/users/186683033959530496">
+    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/presence/status.svg" title="Current Discord status" alt="Current Discord status" />
+  </a>
+  <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/presence/playing.svg" title="Current game" alt="Current game" />
+  <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/presence/coding.svg" title="Current coding activity" alt="Current coding activity" />
+  <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/presence/spotify.svg" title="Currently listening on Spotify" alt="Currently listening on Spotify" />
+</p>
 
 ## 👋 About me
 
@@ -76,15 +85,6 @@ I'm a Software Engineer at **Sonica | Web3 Hub**, based in Blumenau, Brazil. I b
   <img src="https://img.shields.io/badge/D4Sign-6941C6?style=for-the-badge" title="D4Sign document signatures" alt="D4Sign" />
 </p>
 
-<p align="center">
-  <a href="https://discord.com/users/186683033959530496">
-    <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/presence/status.svg" title="Current Discord status" alt="Current Discord status" />
-  </a>
-  <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/presence/playing.svg" title="Current game" alt="Current game" />
-  <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/presence/coding.svg" title="Current coding activity" alt="Current coding activity" />
-  <img src="https://raw.githubusercontent.com/Lucas-zz/Lucas-zz/presence/spotify.svg" title="Currently listening on Spotify" alt="Currently listening on Spotify" />
-</p>
-
 ## 📊 GitHub snapshot
 
 <div align="center">
@@ -110,13 +110,13 @@ I'm a Software Engineer at **Sonica | Web3 Hub**, based in Blumenau, Brazil. I b
 
 <div align="center">
   <a href="https://discord.com/users/186683033959530496">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" />
+    <img width="48" src="https://skillicons.dev/icons?i=discord&amp;theme=dark" title="Discord" alt="Discord" />
   </a>
   <a href="https://x.com/zulenno">
-    <img src="https://img.shields.io/badge/@zulenno-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" />
+    <img width="48" src="https://skillicons.dev/icons?i=twitter&amp;theme=dark" title="X / Twitter" alt="X / Twitter" />
   </a>
   <a href="mailto:lucasazzollinivieira@gmail.com">
-    <img src="https://img.shields.io/badge/Say_hello-00BFBF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" />
+    <img width="48" src="https://skillicons.dev/icons?i=gmail&amp;theme=dark" title="Email" alt="Email" />
   </a>
 </div>
 
