@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": 1793481534729,
+  "provider": "lanyard",
+  "status": "offline",
+  "activities": {
+    "playing": {
+      "value": null,
+      "lastSeenAt": 1792386151011
+    },
+    "coding": {
+      "value": null,
+      "lastSeenAt": 1793400910120
+    },
+    "spotify": {
+      "value": null,
+      "lastSeenAt": 1793392610795
+    }
+  }
+}
